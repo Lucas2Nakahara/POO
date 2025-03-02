@@ -1,27 +1,17 @@
-//typescript da quinta série...
-
-function hero (){
-    quinta();
-    caracter();
+class Quinta {
+        public endurecer() {
+        //todo o código do endurecer
+        }
+        public amolecer () {
+        //todo o código do amolecer    
+        }
+        public caracter () {
+        //todo código do caracter
+            serRomantico();
+        }
+        public serRomantico () {
+            
+        }
 }
 
-function quinta (){
-    //
-    endurecer();
-    amolecer();
-    caracter();
-}
-
-function endurecer() {
-//todo o código do endurecer
-}
-function amolecer () {
-//todo o código do amolecer    
-}
-function caracter () {
-//todo código do caracter
-    serRomantico();
-}
-function serRomantico () {
-    
-}
+const
