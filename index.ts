@@ -1,6 +1,11 @@
 //typescript da quinta série...
 
-function quinta {
+function hero (){
+    quinta();
+    caracter();
+}
+
+function quinta (){
     //
 }
 
@@ -9,4 +14,11 @@ function endurecer() {
 }
 function amolecer () {
 //todo o código do amolecer    
+}
+function caracter () {
+//todo código do caracter
+    serRomantico();
+}
+function serRomantico () {
+    
 }
