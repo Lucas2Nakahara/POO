@@ -7,6 +7,9 @@ function hero (){
 
 function quinta (){
     //
+    endurecer();
+    amolecer();
+    caracter();
 }
 
 function endurecer() {
