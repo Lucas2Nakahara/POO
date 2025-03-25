@@ -14,4 +14,9 @@ class Quinta {
         }
 }
 
-const
+class Mangueira {
+    //atira liquidos
+    public jato() {
+        
+    }
+}
